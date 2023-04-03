@@ -18,20 +18,20 @@ timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: sys41x4                          # the main title
+title: dartos                          # the main title
 
 tagline: Infosec Blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  sys41x4 Infosec Blog
+  Dart OS DEBIAN PKG Repository
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://sys41x4.github.io'
+url: 'https://dart-os.github.io'
 
 github:
-  username: sys41x4             # change to your github username
+  username: dart-os             # change to your github username
 
 twitter:
-  username: sys41x4            # change to your twitter username
+  username: dart_os            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,10 +40,10 @@ social:
   email: sys41x4@zohomail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/sys41x4      # change to your twitter homepage
-    - https://github.com/sys41x4       # change to your github homepage
+    - https://twitter.com/dart_os      # change to your twitter homepage
+    - https://github.com/dart-os       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/sys41x4
+    #- https://www.facebook.com/sys41x4
     - https://www.linkedin.com/in/sys41x4
 
 google_site_verification: google_meta_tag_verification # change to your verification string

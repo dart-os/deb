@@ -24,7 +24,7 @@ create_pkg_static_repo(){
     git merge main # Trigger branch
 
     # rm -rf _site_ _pages_ &&
-    if [ ! -d "_pages_" ]; then
+    if [ ! -d _pages_ ]; then
         mkdir -p _site_ _pages_ &&
         cd _site_ &&
         wget --recursive --no-parent "${1}" &&
@@ -40,7 +40,7 @@ create_pkg_static_repo(){
        echo "Site Created at $(date -u)" > _pages_/index.html
     fi
 
-    find . | grep -vE '^(\./(\.git.*)?|(\./)?_pages_(/.*)?|(\./)?tools(/.*)?)$' | xargs rm -rf &&
+    find . | grep -vE '^\./(\.git.*|_pages_($|/.*)|tools($|/.*)|$)' | xargs rm -rf &&
     mv _pages_/* ./ && rm -rf _pages_
 
 

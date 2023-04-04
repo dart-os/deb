@@ -9,17 +9,14 @@ on:
       - LICENSE
 
 jobs:
-  continuous-delivery:
-
+  run-myscript:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # for posts's lastmod
 
-      - name: Deploy
+      - name: Run script
         run: |
+          chmod +x tools/create_pkg_repo.sh
+          ./tools/create_pkg_repo.sh
 
-          bash tools/create_pkg_repo.sh http://192.168.157.172/deb/ gh-pages . .

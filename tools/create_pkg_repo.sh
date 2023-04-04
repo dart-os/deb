@@ -15,8 +15,9 @@ create_pkg_static_repo(){
     fi
 
     git branch -r | grep -q "origin/${2}"
+
     if [ $? -ne 0 ]; then
-        git checkout --orphan gh-pages
+        git checkout --orphan "${2}"
     fi
 
     rm -rf ./*
@@ -25,7 +26,7 @@ create_pkg_static_repo(){
     # rm -rf _site_ _pages_ &&
     if [ ! -d "_pages_" ]; then
         mkdir -p _site_ _pages_ &&
-        cd __site__ &&
+        cd _site_ &&
         wget --recursive --no-parent "${1}" &&
         cd ./*/* &&
         find . -type d -exec mkdir -p ../../../_pages_/{} \; &&

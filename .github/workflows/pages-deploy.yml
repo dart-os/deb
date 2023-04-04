@@ -17,5 +17,5 @@ jobs:
 
       - name: Run script
         run: |
-          ./tools/create_pkg_repo.sh http://192.168.157.172/deb gh-pages . .
+          ./tools/create_pkg_repo.sh http://192.168.157.172/deb gh-pages TEST TEST
 

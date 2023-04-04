@@ -6,12 +6,12 @@ create_pkg_static_repo(){
     current_usermail=$(git config user.email)
 
 
-    if [[ -n "$GITHUB_ACTIONS" ]]; then
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    else
+    if [[ -z ${GITHUB_ACTION+x} ]]; then
         git config --global user.name "${3}"
         git config --global user.email "${4}"
+    else
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
     fi
 
     git branch -r | grep -q "origin/${2}"
@@ -47,10 +47,10 @@ create_pkg_static_repo(){
     ## Push to gh-pages branch
     git update-ref -d HEAD
     git add .
-    if [[ -n "$GITHUB_ACTIONS" ]]; then
-        git commit -m "[Automation] Updated Static directory listing No.${GITHUB_RUN_NUMBER}"
-    else
+    if [[-z ${GITHUB_ACTION+x} ]]; then
         git commit -m "[Automation] Updated Static directory listing : ${3}"
+    else
+        git commit -m "[Automation] Updated Static directory listing No.${GITHUB_RUN_NUMBER}"
     fi
 
 

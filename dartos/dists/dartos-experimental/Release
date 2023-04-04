@@ -1,0 +1,70 @@
+Origin: Dart-OS
+Label: dart-os
+Codename: dartos-experimental
+Architectures: all
+Components: amd64
+Description: Dart OS dartos-experimental packages
+Date: Sat, 01 Apr 2023 10:17:27 +0000
+MD5Sum:
+ 6e171337f71ac491c0bc3043fe02290c 566 Release.sig
+ 4a4dd3598707603b3f76a2378a4504aa 20 non-free/binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-arm64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 non-free/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
+ 076027b1613a68da34ecc28f5aaca33c 2617 Release.asc
+ d9f9d3664a00e97026636296a4c0fd85 3199 Release.key
+ 3078dc5ec4223154a8195de9c356e954 5395 InRelease
+ e0e68742e73220c8849f76df843f44ae 1846 main/binary-arm64/Packages.gz
+ 597289c47686cb86103b61b765ad51cb 6676 main/binary-arm64/Packages
+ e0e68742e73220c8849f76df843f44ae 1846 main/binary-amd64/Packages.gz
+ 597289c47686cb86103b61b765ad51cb 6676 main/binary-amd64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 contrib/binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-arm64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 contrib/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 non-free-firmware/binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free-firmware/binary-arm64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 non-free-firmware/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free-firmware/binary-amd64/Packages
+SHA1:
+ 2c1133e61be33c70c7c56e93b6f7d253424fb4e4 566 Release.sig
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 non-free/binary-arm64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-arm64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 non-free/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
+ c25017a3a1beba427f0e4a36cebae870f8b54926 2617 Release.asc
+ 565bdbfb956d6687dce92cd609860a226fb90585 3199 Release.key
+ 92af8f64d13229918b85c4b11ff227683e6369b1 5395 InRelease
+ b57d5301f77f5d875dc18720d5ff0ade8b9070a8 1846 main/binary-arm64/Packages.gz
+ 2597c1c4162d45f2fdbf4e7b61c1a25f411e594f 6676 main/binary-arm64/Packages
+ b57d5301f77f5d875dc18720d5ff0ade8b9070a8 1846 main/binary-amd64/Packages.gz
+ 2597c1c4162d45f2fdbf4e7b61c1a25f411e594f 6676 main/binary-amd64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 contrib/binary-arm64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-arm64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 contrib/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 non-free-firmware/binary-arm64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free-firmware/binary-arm64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 non-free-firmware/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free-firmware/binary-amd64/Packages
+SHA256:
+ 99d6f329c1ae53e8267db0e6e9193e05acf0f0370e5d02b0d0b15543a5f57c7e 566 Release.sig
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 non-free/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-arm64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 non-free/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
+ 7943fd59e3140533d045f3aff144e7bac661422e0fd394e55af475ec68a3eb64 2617 Release.asc
+ 4de9317fafdb85e511a783b90190c7a8331259d32dcf02c8a9065d7dea6f2796 3199 Release.key
+ 65b82f7afb0e26765ae773d5831551e5a0faa2dc07e13fbba0de18aa9d02df3f 5395 InRelease
+ 97da5a6aa4c493860fb9148e9485d947b5e27473523d46d3f2177116304fc352 1846 main/binary-arm64/Packages.gz
+ dafde94f61cfcc8fd695d2096592061c68d02e7a06a0f708d188ab6246c607a1 6676 main/binary-arm64/Packages
+ 97da5a6aa4c493860fb9148e9485d947b5e27473523d46d3f2177116304fc352 1846 main/binary-amd64/Packages.gz
+ dafde94f61cfcc8fd695d2096592061c68d02e7a06a0f708d188ab6246c607a1 6676 main/binary-amd64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 contrib/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-arm64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 contrib/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 non-free-firmware/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free-firmware/binary-arm64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 non-free-firmware/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free-firmware/binary-amd64/Packages

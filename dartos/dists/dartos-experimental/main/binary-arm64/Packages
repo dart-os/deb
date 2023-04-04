@@ -1,0 +1,174 @@
+Package: dartos-legacy-wallpapers
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 9
+Depends: dartos-wallpapers-legacy
+Filename: pool/main/d/dartos-wallpapers/dartos-legacy-wallpapers_0.1-alpha_all.deb
+Size: 3218
+MD5sum: 8318d1f61dd51eee01e9ceb1a0f6fc76
+SHA1: 9b4c8c63e7a134fe6cc5b65600f1aa73b0ac13cf
+SHA256: f77e011b97d03eea4d45f3c861096aa265e8b550c6bb585aa74d10575cd846fc
+Section: oldlibs
+Priority: optional
+Description: Transitional package to install dartos-wallpapers-legacy
+ The package has been renamed dartos-wallpapers-legacy and is part of
+ the dartos-wallpapers source package now.
+ .
+ This dummy package can be safely removed once dartos-wallpapers-legacy
+ is installed on the system.
+
+Package: dartos-plymouth-theme
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Installed-Size: 255
+Depends: plymouth (>= 0.8.8)
+Filename: pool/main/d/dartos-plymouth-theme/dartos-plymouth-theme_0.1-alpha_all.deb
+Size: 113128
+MD5sum: 215c09c403af2756f3e475f822f734a4
+SHA1: 0e21b50641dd23aa2743fef5dfe4fc3cfcb73c50
+SHA256: 3939485c5c5467392bbd4cb75757be6e936d14fa715e2eade4446955fd696970
+Section: base
+Priority: optional
+Homepage: https://gitlab.com/dart-os/packages/dartos-plymouth-theme
+Description: Official Plymouth Theme for Dart OS
+
+Package: dartos-plymouth-theme
+Version: 0.1-alpha.1
+Architecture: all
+Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Installed-Size: 255
+Depends: plymouth (>= 0.8.8)
+Filename: pool/main/d/dartos-plymouth-theme/dartos-plymouth-theme_0.1-alpha.1_all.deb
+Size: 107640
+MD5sum: 34cb85065e4f461673c5239e74175df8
+SHA1: d6b802131ec55b1bd6ea5d51dfd0b43618098d79
+SHA256: bbf4a1dcf00d74b9519a5afa5bccb204f9d05a87bc024306fd432387365817d8
+Section: base
+Priority: optional
+Homepage: https://gitlab.com/dart-os/packages/dartos-plymouth-theme
+Description: Official Plymouth Theme for Dart OS
+
+Package: dartos-wallpapers-2021.1
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 9
+Depends: dartos-wallpapers-2022
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2021.1_0.1-alpha_all.deb
+Size: 3142
+MD5sum: 19d1cbe05df8d67f9e750b5ca3f25844
+SHA1: b21a1a156eed2a6a8943d7ff151e9d9d01e707a3
+SHA256: 3de3131140b3a2da9a175f1cfcd9eb6785e56ec5b118aadfad9f11beb84e93f1
+Section: oldlibs
+Priority: optional
+Description: Transitional package to install dartos-wallpapers-2022
+ The package has been renamed dartos-wallpapers-2022.
+
+Package: dartos-wallpapers-2022
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 13
+Breaks: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2021.4 (<< 2022.1.0~)
+Replaces: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2021.4 (<< 2022.1.0~)
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2022_0.1-alpha_all.deb
+Size: 3358
+MD5sum: e3f15e423a31e187ced12121f4d0c1ef
+SHA1: 0072f1960e39f85be15d8bafbcf90af297da4a8c
+SHA256: 094cba504ad12592289fafbca1e6f9a84dce58865b3f3a23f8c4cc2dd88f3934
+Section: misc
+Priority: optional
+Description: Default wallpapers for Dart OS 2022 and newer
+ This package contains multiple wallpapers for Dart OS 2022 and future
+ releases.
+ .
+ If you have multiple dartos-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of dartos-themes-common
+ and is thus required.
+
+Package: dartos-wallpapers-2023
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 5211
+Breaks: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2022 (<< 2023.1.0~)
+Replaces: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2022 (<< 2023.1.0~)
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2023_0.1-alpha_all.deb
+Size: 2290408
+MD5sum: 399b7d0aff8bb5dba33d28ec6618a30b
+SHA1: 659dbd8750427e18a7ac5cccc49a44a6fc1b2880
+SHA256: 4ff563a001aeb55077aa5295f03403e27b99eb96dc654a425fd860656f40f21c
+Section: misc
+Priority: optional
+Description: Default wallpapers for Dart OS 2023 and newer
+ This package contains multiple wallpapers for Dart OS 2023 and future
+ releases.
+ .
+ If you have multiple dartos-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of dartos-themes-common
+ and is thus required.
+
+Package: dartos-wallpapers-all
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 9
+Depends: dartos-wallpapers-2023, dartos-wallpapers-legacy
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-all_0.1-alpha_all.deb
+Size: 3174
+MD5sum: e4cb2eaf235bc3110c6b8c71d772da35
+SHA1: 0978058f4f76f3c4b406376bb1e2fe7fb32e9593
+SHA256: ab8190fb7e4a3a847b045d1672c55a65a5c1dc5d2c43728acdae31368d22a4d8
+Section: misc
+Priority: optional
+Description: All wallpapers for Dart OS
+ This metapackage depends on all dartos-wallpapers-* packages, providing all the
+ wallpapers used for Dart OS and 101 Bytes
+
+Package: dartos-wallpapers-legacy
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 9
+Breaks: dartos-legacy-wallpapers (<< 2023.1.1)
+Replaces: dartos-legacy-wallpapers (<< 2023.1.1)
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-legacy_0.1-alpha_all.deb
+Size: 3190
+MD5sum: f4186e8d044921685e63c7bdc02fbb0d
+SHA1: 9eac885766b29e495f44b63d0299324fd919f9be
+SHA256: dcfb60ae6075907d673d7d2ac66583ba2686efd59cab47962131c083c84f9587
+Section: misc
+Priority: optional
+Description: Wallpapers used over the years
+ Wallpapers and resources used over the years for 101 Bytes & Dart OS,
+ used for nostalgic cosmetic value
+
+Package: dartos-wallpapers-mobile-2023
+Source: dartos-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Installed-Size: 9
+Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-mobile-2023_0.1-alpha_all.deb
+Size: 3268
+MD5sum: 601631a3934fdf130b954a3d45f4a37e
+SHA1: 4117a938c81938ad906f20c43eaa1bccd4e5a547
+SHA256: 3cffc17611732a9a5831fbb7dab2a9fc70ff30d09c7b61c341b8192aa93c6bcc
+Section: misc
+Priority: optional
+Description: Default wallpapers for Dart OS Mobile 2023 and newer
+ This package contains multiple wallpapers for Dart OS Mobile 2023 and future
+ releases.
+ .
+ If you have multiple dartos-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of dartos-themes-common
+ and is thus required.
+

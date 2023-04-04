@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 26 Mar 2023 12:03:29 +0530
+Source: dartos-plymouth-theme
+Binary: dartos-plymouth-theme
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.1-alpha
+Distribution: dartos-dev
+Urgency: medium
+Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Changed-By: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Description:
+ dartos-plymouth-theme - Official Plymouth Theme for Dart OS
+Changes:
+ dartos-plymouth-theme (0.1-alpha) dartos-dev; urgency=medium
+ .
+   * Initial alpha release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 9cc238dbbf2172886a7270c5df41ef3903006fc0 6831 dartos-plymouth-theme_0.1-alpha_all.buildinfo
+ 71e1da2472a505ff19b1bdb54cdfb82b75f577fc 111794 dartos-plymouth-theme_0.1-alpha_all.deb
+Checksums-Sha256:
+ b136344160cd46dbfaf407f25afaf50eb2c2eba57dd0139a9e3d81a6d754d0f4 6831 dartos-plymouth-theme_0.1-alpha_all.buildinfo
+ d7c994eaa28d4d24b0db194d476a335efc32db65212c8177b6ae8328883f7fd2 111794 dartos-plymouth-theme_0.1-alpha_all.deb
+Files:
+ a85b4e1e0a478c1cf6cfc9cc466a3718 6831 base optional dartos-plymouth-theme_0.1-alpha_all.buildinfo
+ 468b1f3336e069d5d63b4ff2ed171a2e 111794 base optional dartos-plymouth-theme_0.1-alpha_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE4E/94PWzBxaNFAjBzeV/7YlqL5QFAmQl7dQACgkQzeV/7Ylq
+L5QtwRAAlExHq4+6WZpu1lFehx71HHLi7o2cWFu2Up/TAOkW0b00k9L3FIaCucNH
+yuxt8clPPLntP0ugceyauuutVAFmBkkaVs71UaA5dJps55jeAHCOQoT/fLoHEHHE
+lORuInPK40mTueRdL4wTF+WkuAqB2xERYPc8/le1gfYl7i/Q+dmN0IkLvKl8Cfk8
+iyqrASJRxyYd0gzytes/kyNKEpHP/xq5Q4PkS5ks7dwT96xUxpu6UZquUbKC2wo7
+VtggCMrj3VDhqk0/Hy7qkNv1C14lodjCIIZEqk+osu+cL5H9w7aOm4eMBfFgD1TU
+3DjhzIC9kVr+64tRgXXe+JssaRUdik99tJrAY1OIZHNspVcyxqjrita1JQHY+mF7
+nlwZ2zY3bMBFdXNMm+jR+aNLL61EoSXAlZDkS2iXwA8spSjrFEb3TSQD651UwV9+
+1ofZlw7LUuF1lkMaHr4PONSOhsdzQY8jCEClUons1jekdY1MTu8IYm06kZC3FYEt
+MQeT2AR5MulhvkIbbyGqg7zuaBlG6sbZsFucgoj2DFifPPp/dP0+HWpbCqlyhJVb
+sRnl38YsogQyPxo0OMPzN0RmhjuD1NqwfmUwNZ0KWw9XxmjJGPT3U7RiWPXkhMxx
+SlrY0gVZGC5lJLRCLaH+VBDIL1Mqo9HKesW3Td9yWoYRU1MaqTA=
+=nRtg
+-----END PGP SIGNATURE-----

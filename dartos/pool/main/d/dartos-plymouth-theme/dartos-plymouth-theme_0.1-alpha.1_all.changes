@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 27 Mar 2023 12:03:29 +0530
+Source: dartos-plymouth-theme
+Binary: dartos-plymouth-theme
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.1-alpha.1
+Distribution: dartos-dev
+Urgency: medium
+Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Changed-By: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Description:
+ dartos-plymouth-theme - Official Plymouth Theme for Dart OS
+Changes:
+ dartos-plymouth-theme (0.1-alpha.1) dartos-dev; urgency=medium
+ .
+   * 0.1-alpha.1 release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 8566924b88df0b9344d5f4c09447ea0a8a3db760 6839 dartos-plymouth-theme_0.1-alpha.1_all.buildinfo
+ ae745c43104019da43fcfcbd8414a122fdee3e6b 106304 dartos-plymouth-theme_0.1-alpha.1_all.deb
+Checksums-Sha256:
+ 7d396d1263c8dea502d793ccefe91f3688e7494ca4367fc97c6adcee1ba65e48 6839 dartos-plymouth-theme_0.1-alpha.1_all.buildinfo
+ d086bcbc18f638960eed5d7df01f796a740ae44edda1569bfdfa015ab55658ba 106304 dartos-plymouth-theme_0.1-alpha.1_all.deb
+Files:
+ 13770b069920b56cc951b44f16e0f6c8 6839 base optional dartos-plymouth-theme_0.1-alpha.1_all.buildinfo
+ 8683b883a394751d035bbd1105802313 106304 base optional dartos-plymouth-theme_0.1-alpha.1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE4E/94PWzBxaNFAjBzeV/7YlqL5QFAmQl3aAACgkQzeV/7Ylq
+L5T9Tw/+OqmKdrJctXwamlvxXrx2EHiIAFFL4vnnDpVG6HoIV00WkflATtystHvA
+38Oca/rF41U0cW+wKIOXa8dicWp9P4GArRt/xSwfVjmwkyJJ4ObJz3Aqh8KikmAE
+2jEds4Av7QBK9YvIP0eE6G/UFez2unkOYLkBbAasBLvDNEirDwm0b4k/E30H23Y0
+F3CzsnBhmy+a7yttj9guHrVFRwjk/3dmmS90dWb05rpwc8xpkvw3iQjw207CKajz
+9jaBCUxORshyjFuKlW7plveeEM69BVd227LkDprWfI3z7yDrg2/Ej1So8E9au28t
+hQ0yTI96asNtEtuzhYh9oDDAmbWcbF26hcjvbQ6ly/wpUGAzMVI+27EbwnN6LuPc
+vumqCTi3KFCMHGYwRiCTU/zm7TdhSmeDbgYuDbwBeWDYGelyxzC6ZcxXyE1x7bld
+sfOqmnaQ9Jfzz5Rnm3X+QzChruLAJgv4LjesWadtYylW42Jzpx79nNpPMkSCL4Z5
+611XebxF2NSl4bdI1I8u+eGCBe5NEWAkML68jN3i6+TKFmkxkFIOfPsi2rMvM2NG
+uOWnQ5kdZJIzbT/aRAB5Q6btYtqHTnQqcwuUfzlGTPoOmfPwQmscLoBVRwDU+IMb
+ACxDyYEhd4KUzEOGoccE+6oeBLgjd1ua4ZRZof6IrTtOkpHSM5w=
+=YsdL
+-----END PGP SIGNATURE-----

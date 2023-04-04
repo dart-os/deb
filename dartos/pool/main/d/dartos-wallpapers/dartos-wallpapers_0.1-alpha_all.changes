@@ -1,0 +1,71 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 29 Mar 2023 12:06:02 +0530
+Source: dartos-wallpapers
+Binary: dartos-legacy-wallpapers dartos-wallpapers-2021.1 dartos-wallpapers-2022 dartos-wallpapers-2023 dartos-wallpapers-all dartos-wallpapers-legacy dartos-wallpapers-mobile-2023
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.1-alpha
+Distribution: dartos-dev
+Urgency: medium
+Maintainer: Dart OS Developers <sys41x4@zohomail.com>
+Changed-By: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
+Description:
+ dartos-legacy-wallpapers - Transitional package to install dartos-wallpapers-legacy
+ dartos-wallpapers-2021.1 - Transitional package to install dartos-wallpapers-2022
+ dartos-wallpapers-2022 - Default wallpapers for Dart OS 2022 and newer
+ dartos-wallpapers-2023 - Default wallpapers for Dart OS 2023 and newer
+ dartos-wallpapers-all - All wallpapers for Dart OS
+ dartos-wallpapers-legacy - Wallpapers used over the years
+ dartos-wallpapers-mobile-2023 - Default wallpapers for Dart OS Mobile 2023 and newer
+Changes:
+ dartos-wallpapers (0.1-alpha) dartos-dev; urgency=medium
+ .
+   [ Arijit Bhowmick ]
+   * Initial Alpha Wallpaper Backgrounds
+Checksums-Sha1:
+ 65a5ac011e256ab1b2fc6e858d73e3985df0c3d8 1888 dartos-legacy-wallpapers_0.1-alpha_all.deb
+ 3a12e229bd119fafdf9e6574421b082417fd9e30 1812 dartos-wallpapers-2021.1_0.1-alpha_all.deb
+ f77e8d48cf8a8b070ee86336f82f7a76625d51a5 2028 dartos-wallpapers-2022_0.1-alpha_all.deb
+ 58b7e25c9e4a4165b1ea3aeccf98611fdc8dc285 2289074 dartos-wallpapers-2023_0.1-alpha_all.deb
+ 02e390b5e35d9b60c388de1268792a651f493067 1844 dartos-wallpapers-all_0.1-alpha_all.deb
+ 3d5d6cdbd6b35ecc24ad1875c0bcb3c948b278e2 1860 dartos-wallpapers-legacy_0.1-alpha_all.deb
+ 5d9f1b36d54659a8888afc1be9d6795b385e9a94 1938 dartos-wallpapers-mobile-2023_0.1-alpha_all.deb
+ 9b9a1bc14e2cfd5d8936a560baa89837aedf4996 9690 dartos-wallpapers_0.1-alpha_all.buildinfo
+Checksums-Sha256:
+ 065c30ac0cc0c6b1ef66813c88429482542a3b4e642d43e87d77da81bcbcc3b3 1888 dartos-legacy-wallpapers_0.1-alpha_all.deb
+ 08d46f12471f9a8d1ba0910d3cdd7878569b6589834da4c8e7a7d6b4959a38f0 1812 dartos-wallpapers-2021.1_0.1-alpha_all.deb
+ ac36dc547c89d1c14b806e6721ac79434978716818ce15ea28bdac53e1242afe 2028 dartos-wallpapers-2022_0.1-alpha_all.deb
+ f3f087c811650eb6e6af8bfda43ddbb31fa9c81449e5343e79a7bbe33a87856c 2289074 dartos-wallpapers-2023_0.1-alpha_all.deb
+ 40bdcc3400b609ac9c0069cbefe34563c373cce2fc2e263d4330e76dfb83923d 1844 dartos-wallpapers-all_0.1-alpha_all.deb
+ ef167bc374ee4b16c85f78414875e5ea09e4ce89b18dcb1af4746d4d363fb616 1860 dartos-wallpapers-legacy_0.1-alpha_all.deb
+ f48d8afe5914adc27f965c6d6f52f3b8db90387e98088f220fe30e25f9a57f48 1938 dartos-wallpapers-mobile-2023_0.1-alpha_all.deb
+ 4540f0b85234899d159b83329d6b139f40697ebe237a7a80f72820e62991bc69 9690 dartos-wallpapers_0.1-alpha_all.buildinfo
+Files:
+ c00421a611b6350a404705195a60363d 1888 oldlibs optional dartos-legacy-wallpapers_0.1-alpha_all.deb
+ e05f08dfbcbcd152ab7f3aab4eada97b 1812 oldlibs optional dartos-wallpapers-2021.1_0.1-alpha_all.deb
+ 8858352e66995b25f9e4075ed66f87ae 2028 misc optional dartos-wallpapers-2022_0.1-alpha_all.deb
+ 1d96326d8bdd768f1a0f59b1511cab4c 2289074 misc optional dartos-wallpapers-2023_0.1-alpha_all.deb
+ cde80b3c246d639ed08b3ae03924d766 1844 misc optional dartos-wallpapers-all_0.1-alpha_all.deb
+ e1308c45e209dae67cfe1eed94140975 1860 misc optional dartos-wallpapers-legacy_0.1-alpha_all.deb
+ 5648d57bf3682f57e39437551c7907b2 1938 misc optional dartos-wallpapers-mobile-2023_0.1-alpha_all.deb
+ 708a57a77771f59b353b3027a39f5559 9690 misc optional dartos-wallpapers_0.1-alpha_all.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE4E/94PWzBxaNFAjBzeV/7YlqL5QFAmQl/ioACgkQzeV/7Ylq
+L5TftA//aZurc05oEDvUZ7Q+w9Fa8AvWWaICMajI8fqfn0/s02W+Np0hweifyivB
+HC2iqgExgB/s2niwgynw8fVUIH/pTbLTluiyOHmkkmEis8cbY1Xz6gkanzVReP1K
+TLzHWBP8iZ66JThDjBxTNlsYeh44tAHvu4x4bWAwwyZxDLhAnD667nIOwY8cpTDS
+u+Asu1YnWGnNsxlm9ESE/9ac5cOgREi+TzG9oDBNniiLMAjUQ2CI3NU9VOVhWDB3
+HxxV9BuvIrIlpRPF/dBJdT0o9kcJ/8wfbKK1rvRQ7M1CRNxevlC3W4l+7YAIylT6
+QkYe3cGzGON9Elq3pN6EtUQ9avNPqr00+jRpvZWGd/gGwC2zqcxzpcL0I49gy7fV
+XWGvEFvLA+HVcDrt1NVl8MnCIULNDA1X+wF68Ok0wjgAS3bqKYSya8L3KK9GDAay
+oaGBiEhmS5B+H7Lrgbv+v0DGixFx9JXedL8MJh4FIqnErFVzQ7UmLzZ239cnxMjk
+fLGmC9XS+/PTOdR0XfNedZH1exU9OXNQTSNZjVkaWWwawLwu/U85/pafg0z5GTzN
+gbzf3CrBxZtgmAEnnUaZeTXmwVKVVUSKkOgdzLzIjsdCxDSHYdvk4qcwWbxnEABv
+HV3Ag777o+OLa6kBHQkPHKNTM2pp4Y17J/LxYyJz6FWzTPz18IM=
+=LDjm
+-----END PGP SIGNATURE-----

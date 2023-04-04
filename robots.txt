@@ -1,5 +1,0 @@
-User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: https://dart-os.github.io/blog/sitemap.xml

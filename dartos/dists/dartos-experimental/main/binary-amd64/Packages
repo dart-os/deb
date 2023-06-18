@@ -6,10 +6,10 @@ Maintainer: Dart OS Developers <sys41x4@zohomail.com>
 Installed-Size: 9
 Depends: dartos-wallpapers-legacy
 Filename: pool/main/d/dartos-wallpapers/dartos-legacy-wallpapers_0.1-alpha_all.deb
-Size: 3218
-MD5sum: 8318d1f61dd51eee01e9ceb1a0f6fc76
-SHA1: 9b4c8c63e7a134fe6cc5b65600f1aa73b0ac13cf
-SHA256: f77e011b97d03eea4d45f3c861096aa265e8b550c6bb585aa74d10575cd846fc
+Size: 2616
+MD5sum: 6f25610bf2bfbe5c7423a5bdb9959f5e
+SHA1: a75a20ffd31e138c8d0907326ea7bcbd99382cf5
+SHA256: c9827b7a5dad55ef8211113db4b7946ea2dbeed20706f89accc7e616e7876592
 Section: oldlibs
 Priority: optional
 Description: Transitional package to install dartos-wallpapers-legacy
@@ -26,10 +26,10 @@ Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
 Installed-Size: 255
 Depends: plymouth (>= 0.8.8)
 Filename: pool/main/d/dartos-plymouth-theme/dartos-plymouth-theme_0.1-alpha_all.deb
-Size: 113128
-MD5sum: 215c09c403af2756f3e475f822f734a4
-SHA1: 0e21b50641dd23aa2743fef5dfe4fc3cfcb73c50
-SHA256: 3939485c5c5467392bbd4cb75757be6e936d14fa715e2eade4446955fd696970
+Size: 112524
+MD5sum: 829079437aa2918e64f86261b9c71c35
+SHA1: 73d6b80482a2a5caaf7d204660a53df59c2481fd
+SHA256: 756b247fe937c2027225deef1b0edfc911e390db217cbd0b18f308fc05a8c924
 Section: base
 Priority: optional
 Homepage: https://gitlab.com/dart-os/packages/dartos-plymouth-theme
@@ -42,10 +42,10 @@ Maintainer: Arijit Bhowmick <cybersec.arijitbhowmick@gmail.com>
 Installed-Size: 255
 Depends: plymouth (>= 0.8.8)
 Filename: pool/main/d/dartos-plymouth-theme/dartos-plymouth-theme_0.1-alpha.1_all.deb
-Size: 107640
-MD5sum: 34cb85065e4f461673c5239e74175df8
-SHA1: d6b802131ec55b1bd6ea5d51dfd0b43618098d79
-SHA256: bbf4a1dcf00d74b9519a5afa5bccb204f9d05a87bc024306fd432387365817d8
+Size: 107036
+MD5sum: 50f15ecfc4fde6fa341eca5ca5d64362
+SHA1: 5bdcddfc6c59c9d34efbc1696bd59ecb4c16ff86
+SHA256: e4b1bd5a05722159dee332021c60f1dcd382d30352bfeb18c162c56ee29bdd43
 Section: base
 Priority: optional
 Homepage: https://gitlab.com/dart-os/packages/dartos-plymouth-theme
@@ -59,10 +59,10 @@ Maintainer: Dart OS Developers <sys41x4@zohomail.com>
 Installed-Size: 9
 Depends: dartos-wallpapers-2022
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2021.1_0.1-alpha_all.deb
-Size: 3142
-MD5sum: 19d1cbe05df8d67f9e750b5ca3f25844
-SHA1: b21a1a156eed2a6a8943d7ff151e9d9d01e707a3
-SHA256: 3de3131140b3a2da9a175f1cfcd9eb6785e56ec5b118aadfad9f11beb84e93f1
+Size: 2540
+MD5sum: f515d0c791512d2451835b58adeefcb2
+SHA1: 64c0f16cc2004e1108c21c890a5d9a9fe8aab5df
+SHA256: 0c26bda0b81b55e318768eab6fc3081b781b6124c809676aa1dd510041939306
 Section: oldlibs
 Priority: optional
 Description: Transitional package to install dartos-wallpapers-2022
@@ -77,10 +77,10 @@ Installed-Size: 13
 Breaks: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2021.4 (<< 2022.1.0~)
 Replaces: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2021.4 (<< 2022.1.0~)
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2022_0.1-alpha_all.deb
-Size: 3358
-MD5sum: e3f15e423a31e187ced12121f4d0c1ef
-SHA1: 0072f1960e39f85be15d8bafbcf90af297da4a8c
-SHA256: 094cba504ad12592289fafbca1e6f9a84dce58865b3f3a23f8c4cc2dd88f3934
+Size: 2756
+MD5sum: 9beaa469a9b017c5f30500671a5c3562
+SHA1: 4083f94b6010fafe010bf8d1012c089cf59a2b25
+SHA256: 17972235b74f6396d8b44c898c50cc1ffc56dd3408adf3c3aa6b6e34e927971b
 Section: misc
 Priority: optional
 Description: Default wallpapers for Dart OS 2022 and newer
@@ -100,10 +100,10 @@ Installed-Size: 5211
 Breaks: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2022 (<< 2023.1.0~)
 Replaces: dartos-themes-common (<< 2020.4.4), dartos-wallpapers-2022 (<< 2023.1.0~)
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-2023_0.1-alpha_all.deb
-Size: 2290408
-MD5sum: 399b7d0aff8bb5dba33d28ec6618a30b
-SHA1: 659dbd8750427e18a7ac5cccc49a44a6fc1b2880
-SHA256: 4ff563a001aeb55077aa5295f03403e27b99eb96dc654a425fd860656f40f21c
+Size: 2289806
+MD5sum: 37f3cce823b603d86af74876b2c1c8e2
+SHA1: 9e10bacff344640535b5dda65b70f2fc6a5375fe
+SHA256: fe98ced9002a4bd6b5979362c07c061b229f8675f55aad2182ec5a695c985208
 Section: misc
 Priority: optional
 Description: Default wallpapers for Dart OS 2023 and newer
@@ -122,10 +122,10 @@ Maintainer: Dart OS Developers <sys41x4@zohomail.com>
 Installed-Size: 9
 Depends: dartos-wallpapers-2023, dartos-wallpapers-legacy
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-all_0.1-alpha_all.deb
-Size: 3174
-MD5sum: e4cb2eaf235bc3110c6b8c71d772da35
-SHA1: 0978058f4f76f3c4b406376bb1e2fe7fb32e9593
-SHA256: ab8190fb7e4a3a847b045d1672c55a65a5c1dc5d2c43728acdae31368d22a4d8
+Size: 2572
+MD5sum: a26f0b81d3fa6020b3927773237ada62
+SHA1: 555c0a36b247f944adc0111e1066d1404617e655
+SHA256: 27a9f77a736c898cec4de4920cd3c5dc35d856b26d2c8207a86983760ffe8561
 Section: misc
 Priority: optional
 Description: All wallpapers for Dart OS
@@ -141,10 +141,10 @@ Installed-Size: 9
 Breaks: dartos-legacy-wallpapers (<< 2023.1.1)
 Replaces: dartos-legacy-wallpapers (<< 2023.1.1)
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-legacy_0.1-alpha_all.deb
-Size: 3190
-MD5sum: f4186e8d044921685e63c7bdc02fbb0d
-SHA1: 9eac885766b29e495f44b63d0299324fd919f9be
-SHA256: dcfb60ae6075907d673d7d2ac66583ba2686efd59cab47962131c083c84f9587
+Size: 2588
+MD5sum: dfc8883c17467cce1bdbfd0ac6f9cccd
+SHA1: 2a36b691c95585b67eaf80ec12d853c471bab9e0
+SHA256: a4dde4f92171317b47ed144b1f59cf8f7e29df83ce00ab29e35e0d2acc3f35c1
 Section: misc
 Priority: optional
 Description: Wallpapers used over the years
@@ -158,10 +158,10 @@ Architecture: all
 Maintainer: Dart OS Developers <sys41x4@zohomail.com>
 Installed-Size: 9
 Filename: pool/main/d/dartos-wallpapers/dartos-wallpapers-mobile-2023_0.1-alpha_all.deb
-Size: 3268
-MD5sum: 601631a3934fdf130b954a3d45f4a37e
-SHA1: 4117a938c81938ad906f20c43eaa1bccd4e5a547
-SHA256: 3cffc17611732a9a5831fbb7dab2a9fc70ff30d09c7b61c341b8192aa93c6bcc
+Size: 2666
+MD5sum: 70f83837ef4805444eb461a0bd1421ed
+SHA1: ad2c1af461cdba6ff67a7f20a3122d08e97d61b1
+SHA256: 49de7928dd2b96088d39450e7a487965992b83eca04b638be76d35a02411f45d
 Section: misc
 Priority: optional
 Description: Default wallpapers for Dart OS Mobile 2023 and newer

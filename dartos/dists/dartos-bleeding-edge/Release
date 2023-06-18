@@ -1,0 +1,34 @@
+Origin: Dart-OS
+Label: dart-os
+Codename: dartos-bleeding-edge
+Architectures: all
+Components: amd64
+Description: Dart OS dartos-bleeding-edge packages
+Date: Sun, 18 Jun 2023 06:11:28 +0000
+MD5Sum:
+ 2f626bd36df0005475df5c6394595c91 566 Release.sig
+ f0b68dde132b4515b62914af8d6efc74 1516 Release.asc
+ 9e24a71a1cbe072ed497fc55abba30ae 3171 Release.key
+ 0c187e263f324cb331b4f7f2ceb77b01 1565 InRelease
+ 701109e66831f60fdf33c15eff31cf55 1843 main/binary-all/Packages.gz
+ c14602fbf8270be32eff862dd2477d8b 6676 main/binary-all/Packages
+ 701109e66831f60fdf33c15eff31cf55 1843 main/binary-amd64/Packages.gz
+ c14602fbf8270be32eff862dd2477d8b 6676 main/binary-amd64/Packages
+SHA1:
+ 5c336a6a729ede62d66c12bf736567ad2587b427 566 Release.sig
+ 36c92cf96a916c1c56313a26ee40df43678de561 1516 Release.asc
+ 954197040e375d85770a47ef5ad49dafd8048bab 3171 Release.key
+ e4d0507c4aec4a9f88aafe21ed07597e528d98da 1565 InRelease
+ 5c08b2e254c4e20bd969b534d6cef1a0f95fe875 1843 main/binary-all/Packages.gz
+ f081727052d471914f46bb0548302569271a1bdb 6676 main/binary-all/Packages
+ 5c08b2e254c4e20bd969b534d6cef1a0f95fe875 1843 main/binary-amd64/Packages.gz
+ f081727052d471914f46bb0548302569271a1bdb 6676 main/binary-amd64/Packages
+SHA256:
+ d4761d42f3e78e83f53d42664d14cf688b529bea99e92751d5961a982779d2f7 566 Release.sig
+ cdfcfa8b00e497d09bb4bc05f6d55abc302ffcb2a5fbd4e2f360a9739730912e 1516 Release.asc
+ 8acfb5399b983c31f26b435c5bb9571a958ae85a993ab9a6228614cde4bc3e61 3171 Release.key
+ 2fd82222a547e00202fbb3e38037e8c190deb3a08cd89d1c95eaa62818778807 1565 InRelease
+ 31e506bd3f0ee4d72b46ba35cd658471fe96d81d51d56bfee2aa4d73cff95c46 1843 main/binary-all/Packages.gz
+ e16e8fec08954339a1380bd6081956423a2b255df2c224a0b604ee6803137d9a 6676 main/binary-all/Packages
+ 31e506bd3f0ee4d72b46ba35cd658471fe96d81d51d56bfee2aa4d73cff95c46 1843 main/binary-amd64/Packages.gz
+ e16e8fec08954339a1380bd6081956423a2b255df2c224a0b604ee6803137d9a 6676 main/binary-amd64/Packages
